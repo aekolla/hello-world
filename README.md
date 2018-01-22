@@ -1,4 +1,7 @@
 # hello-world
 im gonna be a coder
 
-I am having a bit of a day and want to make money and enjoy life and maybe one day be an adult. 
+I am learning how to do this is <strong> neat! </strong> 
+
+<h3> Daring to be bold </h3>
+can be scary, but most defs is worth it!
